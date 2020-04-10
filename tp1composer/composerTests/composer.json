@@ -1,0 +1,6 @@
+{
+    "name": "tanya/composer-tests",
+    "require": {
+        "namnv609/php-rest-countries": "^1.0"
+    }
+}
