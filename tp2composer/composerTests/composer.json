@@ -1,0 +1,12 @@
+{
+    "name": "tanya/composer-tests",
+    "authors": [
+        {
+            "name": "Tanya García",
+            "email": "garcia.tanya0204@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
